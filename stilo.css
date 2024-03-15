@@ -63,15 +63,13 @@ main .background2{
     border: 2px solid rgb(179, 89, 89); 
     border-radius: 10px;
     width: 400px;
-    height: 215px;
+    height: 205px;
     text-align: center;
 
 }
 
 .gfr{
 
-   border: 3px solid rgb(255, 238, 0);
-   border-radius: 10px;
    width: 450px;
    height: 300px;
     margin-bottom: 80px;
@@ -80,8 +78,6 @@ main .background2{
 
 .gfr p{
 
-    border: 3px solid rgb(255, 238, 0); 
-    border-radius: 10px;
     text-align: center;
     font-size: 20px;
     font-family:monospace;
@@ -126,7 +122,7 @@ main .background2{
     margin-top: 150px;
     background-color: white;
     height: 15px;
-    width: 139%;
+    width: 192%;
 
 
 }
@@ -135,7 +131,7 @@ main .background2{
 
     background-color: white;
     height: 15px;
-    width: 139%;
+    width: 192%;
 
 
 }
@@ -144,7 +140,7 @@ main .background2{
 
     background-color: rgb(36, 0, 77);
     height: 350px;
-    width: 139%;
+    width: 192%;
     color: white;
     font-size: 25px;
 
@@ -194,8 +190,8 @@ main .background2{
 
     background-color: rgb(185, 185, 185);
     height: 15px;
-    width: 139%;
-
+    width: 192%;
+    margin-top: 30px;
 
 }
 
@@ -203,7 +199,195 @@ main .background2{
 
     background-color: rgb(185, 185, 185);
     height: 15px;
-    width: 139%;
+    width: 192%;
     margin-top: 50px;
 
 }
+
+#minicuriosidade img{
+
+    border: 3px solid rgb(233, 233, 233);
+    margin-left: 50px;
+
+}
+
+#minicuriosidade p{
+
+    margin-top: 30px;
+    border: 3px solid rgb(71, 14, 78);
+    margin-left: 50px;
+    border-radius: 10px;
+    width: 500px;
+    height: 160px;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+
+}
+
+#minicuriosidade{
+
+    display: flex;
+    margin-left: 50px;
+    margin-top: 30px;
+
+}
+
+.chi img{
+
+    border: 3px solid rgb(233, 233, 233);
+    width: 250px;
+    height: 220px;
+    margin-left: 50px;
+
+}
+
+#barrinha3{
+
+    background-color: rgb(185, 185, 185);
+    height: 15px;
+    width: 192%;
+    margin-bottom: 50px;
+
+}
+
+.bara1{
+
+    background-color: rgb(133, 133, 68);
+    width: 192%;
+    height: 400px;
+
+}
+
+.bara1 h2{
+
+    font-size: 40px;
+    color: black;
+    margin-left: 570px;
+    padding-top: 15px;
+
+}
+
+.bara1 img{
+
+    margin-top: 20px;
+    padding-left: 485px;
+
+}
+
+#C{
+
+    display: flex;
+
+}
+
+#C p{
+
+    margin-left: 50px;
+    font-size: 20px;
+    color: white;
+    border: 3px solid rgb(255, 255, 172);
+    width: 520px;
+    height: 170px;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+#barrinha4{
+
+    background-color: rgb(255, 197, 245);
+    height: 15px;
+    width: 192%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+#Cpt2{
+
+    display: flex;
+    margin-left: 300px;
+
+
+}
+
+#Cpt2 p{
+
+    color: white;
+    text-align: center;
+    border: 3px solid rgb(255, 112, 248);
+    border-radius: 10px;
+    width: 400px;
+    height: 135px;
+    padding-top: 25px;
+    margin-left: 30px;
+
+}
+
+.bara2 h2{
+
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    margin-left: 540px;
+    padding-top: 10px;
+
+}
+
+.bara2 img{
+
+    margin-left: 525px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+
+}
+
+.bara2{
+
+    background-color: rgb(212, 189, 139);
+    width: 192%;
+
+}
+
+#barrinha5{
+
+width: 192%;
+background-color:rgb(119, 0, 0);
+height: 15px;
+
+}
+
+#barrinha6{
+
+width: 192%;
+background-color:rgb(119, 0, 0);
+height: 15px;
+
+}
+
+.Fox img{
+
+    border: 3px solid rgb(233, 233, 233);
+
+}
+
+#D p{
+
+    border: 3px solid rgb(255, 65, 65);
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    width: 600px;
+    height: 220px;
+    margin-right: 50px;
+
+}
+
+#D{
+
+    display: flex;
+    margin-left: 150px;
+
+}
+
