@@ -121,8 +121,89 @@ main .background2{
     
 }
 
+.barraCMD1{
+
+    margin-top: 150px;
+    background-color: white;
+    height: 15px;
+    width: 139%;
+
+
+}
+
+.barraCMD2{
+
+    background-color: white;
+    height: 15px;
+    width: 139%;
+
+
+}
+
+#blackbarra{
+
+    background-color: rgb(36, 0, 77);
+    height: 350px;
+    width: 139%;
+    color: white;
+    font-size: 25px;
+
+}
+
+#blackbarra h2{
+
+    background-color: rgb(36, 0, 77);
+    margin-left: 540px;
+    padding-top: 20px;
+
+}
+
+#blackbarra img{
+
+    margin-left: 555px;
+
+}
+
+#B {
+
+    display: flex;
+    margin-left: 180px;
+    margin-top: 100px;
+
+}
+
 #B img{
 
-    
+    width: 255px;
+    height: 250px;
+    margin-left: 50px;
+    border: 3px solid rgb(233, 233, 233);
+
+}
+
+.CMDEXE{
+
+    margin-left: 280px;
+    margin-top: 70px;
+    background-color: rgb(0, 0, 0);
+
+
+}
+
+#barrinha1{
+
+    background-color: rgb(185, 185, 185);
+    height: 15px;
+    width: 139%;
+
+
+}
+
+#barrinha2{
+
+    background-color: rgb(185, 185, 185);
+    height: 15px;
+    width: 139%;
+    margin-top: 50px;
 
 }
